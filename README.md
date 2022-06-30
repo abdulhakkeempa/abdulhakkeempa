@@ -7,9 +7,9 @@
 #### Linkedin : <a href="" >https://www.linkedin.com/in/abdul-hakkeem-pa/</a>
 
 ## :octocat: GitHub Stats
-[![Hakkeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakkeempa&show_icons=true&theme=radical)]()
+[![Hakkeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakkeempa&show_icons=true&theme=tokyonight&hide_border=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakkeempa&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakkeempa&layout=compact&theme=tokyonight&hide_border=true)]()
 
 
 <!--
