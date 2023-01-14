@@ -9,7 +9,7 @@
 #### Linkedin : <a href="" >https://www.linkedin.com/in/abdul-hakkeem-pa/</a>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php,django,laravel,jquery,mysql,html,css,gcp,figma,bootstrap,latex,git,github&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php,django,laravel,jquery,mysql,html,css,gcp,figma,bootstrap,latex,git,github,githubactions&theme=dark)
 
 ## GitHub Activity
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=abdulhakkeempa&theme=cobalt)
