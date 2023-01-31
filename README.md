@@ -3,16 +3,23 @@
 # :bust_in_silhouette: Abdul Hakkeem P A - @abdulhakkeempa
 <h2>Hey 👋 , I am Hakkeem </h2> 
 
-### Backend Developer specializing in secure, reliable and scalable APIs. With a keen interest in UI design and minimal front-end development. Dedicated to building and monetizing products that solve problems faced by a wide range of people, using technology to make a positive impact and drive social change
-
-
-## :email: Get in Touch
-#### Email : <a href="" >abdulhakkeempa2002@gmail.com</a>
-#### Personal Website : <a href="" >https://abdulhakkeempa.me</a>
-#### Linkedin : <a href="" >https://www.linkedin.com/in/abdul-hakkeem-pa/</a>
+### Backend Developer specializing in secure, reliable and scalable APIs. With a keen interest in UI design and minimal front-end development. Dedicated to building and monetizing products that solve problems faced by a wide range of people, using technology to make a positive impact and drive social change.
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php,django,laravel,jquery,mysql,html,css,gcp,figma,bootstrap,latex,git,github,githubactions&theme=dark)
+
+## Let us talk
+#### Email : <a href="" >abdulhakkeempa2002@gmail.com</a>
+#### Portfolio : <a href="" >https://abdulhakkeempa.me</a>
+#### Linkedin : <a href="" >https://www.linkedin.com/in/abdul-hakkeem-pa</a>
+#### Twitter : <a href="" >https://twitter.com/abdulhakkeempa</a>
+#### Instagram : <a href="" >https://www.instagram.com/_.hakkeem_</a>
+
+
+## :octocat: GitHub Stats
+![](https://komarev.com/ghpvc/?username=hakkeempa&color=blue&style=for-the-badge)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulhakkeempa&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=abdulhakkeempa&count_private=true&show_icons=true&theme=cobalt)
 
 ## GitHub Activity
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=abdulhakkeempa&theme=cobalt)
@@ -20,10 +27,7 @@
 ## GitHub Profile Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhakkeempa&theme=github_dark)
 
-## :octocat: GitHub Stats
-![](https://komarev.com/ghpvc/?username=hakkeempa&color=blue&style=for-the-badge)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulhakkeempa&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=abdulhakkeempa&count_private=true&show_icons=true&theme=cobalt&border=false)
+
 
 
 
