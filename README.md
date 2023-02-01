@@ -5,6 +5,9 @@
 
 ### Backend Developer specializing in secure, reliable and scalable APIs. With a keen interest in UI design and minimal front-end development. Dedicated to building and monetizing products that solve problems faced by a wide range of people, using technology to make a positive impact and drive social change.
 
+<a href="https://www.buymeacoffee.com/abdulhakkeempa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php,django,laravel,jquery,mysql,html,css,gcp,figma,bootstrap,latex,git,github,githubactions&theme=dark)
 
