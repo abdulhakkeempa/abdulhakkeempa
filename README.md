@@ -9,24 +9,32 @@
 ![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php,django,laravel,jquery,mysql,html,css,gcp,figma,bootstrap,latex,git,github,githubactions&theme=dark)
 
 ## Let us talk
-#### Email : <a href="" >abdulhakkeempa2002@gmail.com</a>
-#### Portfolio : <a href="" >https://abdulhakkeempa.me</a>
-#### Linkedin : <a href="" >https://www.linkedin.com/in/abdul-hakkeem-pa</a>
-#### Twitter : <a href="" >https://twitter.com/abdulhakkeempa</a>
-#### Instagram : <a href="" >https://www.instagram.com/_.hakkeem_</a>
-
+#### Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
+#### Check out my portfolio at <a href="" >https://abdulhakkeempa.me</a>
+<p align="left">
+<a href="https://twitter.com/abdulhakkeempa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulhakkeempa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-hakkeem-pa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hakkeem-pa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hakkeempa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hakkeempa" height="30" width="40" /></a>
+<a href="https://fb.com/abdulhakkeempa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulhakkeempa" height="30" width="40" /></a>
+<a href="https://instagram.com/_.hakkeem_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hakkeem_" height="30" width="40" /></a>
+<a href="https://dev.to/hakkeempa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hakkeempa" height="30" width="40" /></a>
+</p>
 
 ## :octocat: GitHub Stats
-![](https://komarev.com/ghpvc/?username=hakkeempa&color=blue&style=for-the-badge)  
+![](https://komarev.com/ghpvc/?username=abdulhakkeempa&color=blue&style=for-the-badge)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulhakkeempa&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=abdulhakkeempa&count_private=true&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api?username=abdulhakkeempa&count_private=true&show_icons=true&theme=cobalt&hide_border=true)
+
+## GitHub Streaks
+![](https://github-readme-streak-stats.herokuapp.com?user=abdulhakkeempa&theme=github-dark-blue&hide_border=true)
+
 
 ## GitHub Activity
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=abdulhakkeempa&theme=cobalt)
 
 ## GitHub Profile Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhakkeempa&theme=github_dark)
-
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abdulhakkeempa" alt="abdulhakkeempa" /> </p>
 
 
 
