@@ -9,7 +9,17 @@
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php,django,laravel,jquery,mysql,html,css,gcp,figma,bootstrap,latex,git,github,githubactions&theme=dark)
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,java,php&theme=dark)  
+
+### Frameworks
+![My Skills](https://skillicons.dev/icons?i=html,css,latex,django,laravel,jquery,bootstrap&theme=dark)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=10)
+
+### Others
+![My Skills](https://skillicons.dev/icons?i=gcp,figma,nginx,git,github,githubactions&theme=dark&perline=10)
 
 ## Let us talk
 #### Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
