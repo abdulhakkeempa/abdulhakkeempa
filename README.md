@@ -19,7 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=10)
 
 ### Others
-![My Skills](https://skillicons.dev/icons?i=gcp,figma,nginx,git,github,githubactions&theme=dark&perline=10)
+![My Skills](https://skillicons.dev/icons?i=azure,gcp,figma,nginx,git,github,githubactions&theme=dark&perline=10)
 
 ## Let us talk
 #### Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
