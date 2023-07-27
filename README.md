@@ -1,9 +1,13 @@
-![banner](https://user-images.githubusercontent.com/92361680/215815107-1d2d1657-25e9-4910-987b-03be5dc4cd35.png)
+![Abdul Hakkeem P A - Linkedin Cover](https://github.com/abdulhakkeempa/abdulhakkeempa/assets/92361680/da8dbece-5f61-45d7-ba65-e037278006ee)
 
-# :bust_in_silhouette: Abdul Hakkeem P A - @abdulhakkeempa
-<h2>Hey 👋 , I am Hakkeem </h2> 
+## :bust_in_silhouette: Abdul Hakkeem P A - @abdulhakkeempa
+<h3>Hey 👋 , I am Hakkeem </h3> 
 
-### Backend Developer specializing in secure, reliable and scalable APIs. With a keen interest in UI design and minimal front-end development. Dedicated to building and monetizing products that solve problems faced by a wide range of people, using technology to make a positive impact and drive social change.
+Hello, I’m a self-taught programmer who enjoys building web apps and APIs that are secure and scalable. I’m not just interested in software, but also in products that can solve the challenges of millions of people. I have been working on some projects that are on my personal check list, and now I’m also learning more about artificial intelligence and how it can empower security and creativity. I also occasionally design stuff and have an interest in minimal designs. You can see some of my work on my GitHub profile. Thanks for visiting! 😊
+
+If you have something to discuss with me, feel free to hit me at <a href="mailto:abdulhakkeempa2002@gmail.com">abdulhakkeempa2002@gmail.com</a>.
+
+
 
 <a href="https://www.buymeacoffee.com/abdulhakkeempa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
