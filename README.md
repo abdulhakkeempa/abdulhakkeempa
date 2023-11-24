@@ -28,7 +28,6 @@ Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
 ![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Libraries & Frameworks
 ![C++](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -69,10 +68,6 @@ Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
 ### Version Control
 ![C++](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-### Others
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdulhakkeempa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
