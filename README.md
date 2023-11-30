@@ -1,6 +1,5 @@
 ![Abdul Hakkeem P A - Linkedin Cover](https://github.com/abdulhakkeempa/abdulhakkeempa/assets/92361680/da8dbece-5f61-45d7-ba65-e037278006ee)
 
-## :bust_in_silhouette: Abdul Hakkeem P A - @abdulhakkeempa
 <h3>Hey 👋 , I am Hakkeem </h3> 
 
 Hello! I'm a programmer who loves to make products, web apps and APIs that are safe and can handle lots of users. I don't just like software, I also like making things that can help lots of people. I've been working on some projects that are important to me, and now I'm learning more about artificial intelligence.   
@@ -17,6 +16,15 @@ If you have something to discuss with me, feel free to hit me at <a href="mailto
 Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) 
+
+## Projects
+These are the projects that I have recently worked on
+
+- [Hyperpersonalised Middleware Solution](https://github.com/sib-hackathon/hyperpersonalisation-backend) -   A middleware solution integrated into existing banking applications. Developed at the Fin-A-Thon hackathon by South Indian Bank, it was shortlisted among the top 15 teams out of 600 across India.
+
+- [Movie Recommender System](https://github.com/abdulhakkeempa/movie-recommender) -  A movie recommender system which is powered by an ML Model which is trained on a custom movie dataset from Kaggle, build to understand how modern recommender systems work.
+
+
 
 
 ## Skills
