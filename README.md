@@ -85,8 +85,10 @@ These are the projects that I have recently worked on
 ## GitHub Activity
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=abdulhakkeempa&theme=cobalt)
 
+<!---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulhakkeempa&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://myreadme.vercel.app/api/embed/abdulhakkeempa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+-->
 
 ## GitHub Profile Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhakkeempa&theme=github_dark)
