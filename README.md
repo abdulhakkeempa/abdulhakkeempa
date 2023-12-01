@@ -24,6 +24,16 @@ These are the projects that I have recently worked on
 
 - [Movie Recommender System](https://github.com/abdulhakkeempa/movie-recommender) -  A movie recommender system which is powered by an ML Model which is trained on a custom movie dataset from Kaggle, build to understand how modern recommender systems work.
 
+- [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.
+
+- [College CMS](https://github.com/abdulhakkeempa/college-cms) - A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access.
+
+- [Listen Bot](https://github.com/abdulhakkeempa/listen-bot) - A Telegram bot that will download and convert YouTube videos into MP3 files by taking the provided YouTube link as input.
+
+- [Theyyam Classifier API](https://github.com/abdulhakkeempa/theyyam-classifier-api) - A Django REST API integrated with a TensorFlow image classification model. Built using Django Rest Framework and deployed on an Azure VM using Nginx for a research project.
+
+- [Spam Classifier](https://github.com/abdulhakkeempa/spam-detection) - SMS Spam Classifier with FastAPI 🚀. This project utilizes FastAPI, Scikit-Learn, and Pandas for efficient spam detection in SMS messages. It's designed to provide a solution for identifying and filtering out spam messages in real-time.
+
 
 
 
