@@ -73,8 +73,9 @@ These are the projects that I have recently builded
 ![C++](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & Deployment
-![C++](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![C++](https://img.shields.io/badge/Google%20Cloud-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)
+![C++](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![C++](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 ![C++](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
