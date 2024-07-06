@@ -16,10 +16,10 @@ Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
 ## Projects
 These are some of my features projects 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=AccentAce)](https://github.com/abdulhakkeempa/AccentAce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=college-cms)](https://github.com/abdulhakkeempa/college-cms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sib-hackathon&repo=hyperpersonalisation-backend)](https://github.com/sib-hackathon/hyperpersonalisation-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=github-to-latex)](https://abdulhakkeempa.github.io/github-to-latex/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=AccentAce&show_owner=true)](https://github.com/abdulhakkeempa/AccentAce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=college-cms&show_owner=true)](https://github.com/abdulhakkeempa/college-cms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sib-hackathon&repo=hyperpersonalisation-backend&show_owner=true)](https://github.com/sib-hackathon/hyperpersonalisation-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=github-to-latex&show_owner=true)](https://abdulhakkeempa.github.io/github-to-latex/)
 <!--
 - [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.
 
