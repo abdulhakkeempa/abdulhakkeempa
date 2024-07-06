@@ -14,7 +14,15 @@ Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) 
 
 ## Projects
-These are the projects that I have recently builded
+These are some of my features projects 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=AccentAce)](https://github.com/abdulhakkeempa/AccentAce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=college-cms)](https://github.com/abdulhakkeempa/college-cms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sib-hackathon&repo=hyperpersonalisation-backend)](https://github.com/sib-hackathon/hyperpersonalisation-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=github-to-latex)](https://abdulhakkeempa.github.io/github-to-latex/)
+<!--
+- [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.
+
 
 - [Hyperpersonalised Middleware Solution](https://github.com/sib-hackathon/hyperpersonalisation-backend) -   A middleware solution integrated into existing banking applications. Developed at the Fin-A-Thon hackathon by South Indian Bank, it was shortlisted among the top 15 teams out of 600 across India.
 
@@ -29,7 +37,7 @@ These are the projects that I have recently builded
 - [Theyyam Classifier API](https://github.com/abdulhakkeempa/theyyam-classifier-api) - A Django REST API integrated with a TensorFlow image classification model. Built using Django Rest Framework and deployed on an Azure VM using Nginx for a research project.
 
 - [Spam Classifier](https://github.com/abdulhakkeempa/spam-detection) - SMS Spam Classifier with FastAPI 🚀. This project utilizes FastAPI, Scikit-Learn, and Pandas for efficient spam detection in SMS messages. It's designed to provide a solution for identifying and filtering out spam messages in real-time.
-
+-->
 
 ## Skills
 ### Programming Languages
