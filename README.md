@@ -1,15 +1,20 @@
-![Abdul Hakkeem P A - Linkedin Cover](https://github.com/abdulhakkeempa/abdulhakkeempa/assets/92361680/da8dbece-5f61-45d7-ba65-e037278006ee)
+## Hey! Nice to see you.
+Welcome to my page! <br>
+I'm Hakkeem, a Full Stack AI developer from India.
+<br><br>
+I work as an R&D Engineer at a Fin-Tech startup, solving complex business problems using AI. 🤖
+<br><br>
+My areas of expertise include Full Stack Applications, DevOps, MLOps, LLM, Fine-tuning, Docker, and AWS. 💻🔧
+<br><br>
+I'm an active member of the tech communities, regularly attending and organizing meetups, conferences, workshops, and hackathons. 🤝💻
 
-<h3>Hey 👋 , I am Hakkeem </h3> 
 
-I am a full-stack developer interested in solving real-world problems using technology. This interest led me to product engineering. Seeing the potential of artificial intelligence, I am also interested in Artificial Intelligence and Machine Learning. I am always interested in building SaaS products which solve complex real-world problems. I currently have 1.5 years of experience in building web applications and am extending my knowledge over Artificial Intelligence and Deep Learning.
-
-I am currently open to job opportunities in the field of full-stack development, product engineering, and AI/ML. If you are interested in contacting me for any kind of services, please mail me at abdulhakkeempa2002@gmail.com .
-
+<!--
 <a href="https://www.buymeacoffee.com/abdulhakkeempa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+-->
 
 ## 🌐 Socials:
-Reach me at <a href="" >abdulhakkeempa2002@gmail.com</a> for any projects.  
+Reach me at <a href="mailto:hello@abdulhakkeempa.com" >hello@abdulhakkeempa.com</a> for any queries.  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) 
 
