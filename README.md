@@ -1,7 +1,7 @@
 ## Hey! Nice to see you.
 I'm Hakkeem, a Full Stack AI developer from India.
 <br><br>
-I work as an R&D Engineer at a Fin-Tech startup, solving complex business problems using AI. 🤖
+I work as an R&D Engineer Intern at a Fin-Tech startup, solving complex business problems using AI. 🤖
 <br><br>
 My areas of expertise include Full Stack Applications, DevOps, MLOps, LLM, Fine-tuning, Docker, and AWS. 💻🔧
 <br><br>
@@ -12,18 +12,21 @@ I'm an active member of the tech communities, regularly attending and organizing
 <a href="https://www.buymeacoffee.com/abdulhakkeempa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 -->
 
-## 🌐 Socials:
-Reach me at <a href="mailto:hello@abdulhakkeempa.com" >hello@abdulhakkeempa.com</a> for any queries.  
+## 🌐 Connect with Me
 
+[Email](mailto:hello@abdulhakkeempa.com) | [Instagram](https://instagram.com/_.hakkeem_) | [LinkedIn](https://linkedin.com/in/abdul-hakkeem-pa) | [Stack Overflow](https://stackoverflow.com/users/hakkeempa) | [Twitter](https://twitter.com/abdulhakkeempa)
+<!--
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) 
+-->
 
-## Projects
-These are some of my features projects 
+## Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=AccentAce&show_owner=true)](https://github.com/abdulhakkeempa/AccentAce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=college-cms&show_owner=true)](https://github.com/abdulhakkeempa/college-cms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sib-hackathon&repo=hyperpersonalisation-backend&show_owner=true)](https://github.com/sib-hackathon/hyperpersonalisation-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdulhakkeempa&repo=github-to-latex&show_owner=true)](https://abdulhakkeempa.github.io/github-to-latex/)
+| Project Name | Description | Technologies | Link |
+|--------------|-------------|--------------|------|
+| [AccentAce](https://github.com/abdulhakkeempa/AccentAce) | Accent Ace is an AI-powered software that generates text for users and records their voice to analyze their pronunciation. The goal of this project is to enable users to improve their pronunciation skills independently. | Next.js, FastAPI, Gemini, Firebase, Docker, GitHub Actions| [Live Demo](https://accent-ace.vercel.app/) |
+| [Distributed Object Detection on Edge Devices using tinyML](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |  Developed an object detection system that identifies cars from camera streams and compares them to a target image, facilitating vehicle tracking across distributed devices with edge-based processing. [Academic] | Python, Yolo, Object Detection, Raspberry PI, MQTT, tinyML | [GitHub Repo](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |
+| [College CMS](https://github.com/abdulhakkeempa/college-cms) | A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access. | php, Laravel, MySQL, JavaScript  | [GitHub Repo](https://github.com/abdulhakkeempa/college-cms) |
+
 <!--
 - [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.
 
@@ -87,7 +90,6 @@ These are some of my features projects
 ### Cloud & Deployment
 ![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![C++](https://img.shields.io/badge/Google%20Cloud-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)
-![C++](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![C++](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 ![C++](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -113,9 +115,6 @@ These are some of my features projects
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhakkeempa&theme=dark&hide_border=false" alt="Github Streak Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhakkeempa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Top Languages" height="165"/>
 </p>
-
-## 🏆 Statistics
-<img src="https://myreadme.vercel.app/api/embed/abdulhakkeempa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 ## GitHub Profile Card
