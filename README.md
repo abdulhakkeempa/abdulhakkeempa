@@ -14,7 +14,7 @@ I'm an active member of the tech communities, regularly attending and organizing
 
 ## 🌐 Connect with Me
 
-[Email](mailto:hello@abdulhakkeempa.com) | [Instagram](https://instagram.com/_.hakkeem_) | [LinkedIn](https://linkedin.com/in/abdul-hakkeem-pa) | [Stack Overflow](https://stackoverflow.com/users/hakkeempa) | [Twitter](https://twitter.com/abdulhakkeempa)
+[Email](mailto:hello@abdulhakkeempa.com) | [LinkedIn](https://linkedin.com/in/abdul-hakkeem-pa) | [Twitter](https://twitter.com/abdulhakkeempa) | [Stack Overflow](https://stackoverflow.com/users/hakkeempa) | [Instagram](https://instagram.com/_.hakkeem_) 
 <!--
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) 
 -->
