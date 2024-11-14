@@ -1,5 +1,4 @@
 ## Hey! Nice to see you.
-Welcome to my page! <br>
 I'm Hakkeem, a Full Stack AI developer from India.
 <br><br>
 I work as an R&D Engineer at a Fin-Tech startup, solving complex business problems using AI. 🤖
