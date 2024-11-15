@@ -1,9 +1,11 @@
 ## Hey! Nice to see you.
 I'm Hakkeem, a Full Stack AI developer from India.
 <br><br>
-I work as an R&D Engineer Intern at a Fin-Tech startup, solving complex business problems using AI. 🤖
+I work as an R&D Engineer (Intern) at a Fin-Tech startup, solving complex business problems using AI. 🤖
 <br><br>
-My areas of expertise include Full Stack Applications, DevOps, MLOps, LLM, Fine-tuning, Docker, and AWS. 💻🔧
+My areas of expertise include Full Stack Applications, DevOps, Docker, and AWS. 💻🔧
+<br><br>
+I’m currently learning MLOps, LLM Fine-tuning, Quantisation, and Kubeflow. ☁️
 <br><br>
 I'm an active member of the tech communities, regularly attending and organizing meetups, conferences, workshops, and hackathons. 🤝💻
 
