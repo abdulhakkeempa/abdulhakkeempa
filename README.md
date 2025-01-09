@@ -29,6 +29,11 @@ I'm an active member of the tech communities, regularly attending and organizing
 | [Distributed Object Detection on Edge Devices using tinyML](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |  Developed an object detection system that identifies cars from camera streams and compares them to a target image, facilitating vehicle tracking across distributed devices with edge-based processing. [Academic] | Python, Yolo, Object Detection, Raspberry PI, MQTT, tinyML | [GitHub Repo](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |
 | [College CMS](https://github.com/abdulhakkeempa/college-cms) | A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access. | php, Laravel, MySQL, JavaScript  | [GitHub Repo](https://github.com/abdulhakkeempa/college-cms) |
 
+## Blogs
+| Topic | Link |
+|--------------|-------------|
+| Mastering Database Migration from EC2 to AWS RDS using AWS Data Migration Service (DMS) | [Read full blog](https://medium.com/@abdulhakkeempa2002/from-ec2-to-rds-mastering-database-migration-with-aws-dms-b9b812ce9a62) |
+
 <!--
 - [Code-2-Doc](https://abdulhakkeempa.github.io/github-to-latex/) - A micro SaaS product that transforms code from your GitHub repository into a LaTeX template built using GitHub API & Tailwind CSS.
 
