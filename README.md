@@ -31,6 +31,9 @@ I'm an active member of the tech communities, regularly attending and organizing
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From EC2 to RDS: Mastering Database Migration with AWS DMS](https://medium.com/@abdulhakkeempa2002/from-ec2-to-rds-mastering-database-migration-with-aws-dms-b9b812ce9a62?source=rss-f68facac37c8------2)
+- [The Make-a-Ton Journey: Building Kerala’s Largest Student Hackathon](https://medium.com/writeabyte/the-make-a-ton-journey-building-keralas-largest-student-hackathon-e2868681d0cf?source=rss-f68facac37c8------2)
+- [Map-in-Review: An Analysis of your Travel from Google History](https://medium.com/@abdulhakkeempa2002/map-in-review-an-analysis-of-your-travel-from-google-history-c71af5315493?source=rss-f68facac37c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 
