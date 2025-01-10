@@ -29,6 +29,11 @@ I'm an active member of the tech communities, regularly attending and organizing
 | [Distributed Object Detection on Edge Devices using tinyML](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |  Developed an object detection system that identifies cars from camera streams and compares them to a target image, facilitating vehicle tracking across distributed devices with edge-based processing. [Academic] | Python, Yolo, Object Detection, Raspberry PI, MQTT, tinyML | [GitHub Repo](https://github.com/abdulhakkeempa/Distributed-Object-Detection) |
 | [College CMS](https://github.com/abdulhakkeempa/college-cms) | A Content Management System for colleges built with Laravel, PHP, MySQL, and JavaScript. It features an admin dashboard for content management and multiple user roles controlled access. | php, Laravel, MySQL, JavaScript  | [GitHub Repo](https://github.com/abdulhakkeempa/college-cms) |
 
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Blogs
 | Topic | Link |
 |--------------|-------------|
