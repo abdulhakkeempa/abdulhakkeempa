@@ -36,12 +36,13 @@ I'm an active member of the tech communities, regularly attending and organizing
 - [Map-in-Review: An Analysis of your Travel from Google History](https://medium.com/@abdulhakkeempa2002/map-in-review-an-analysis-of-your-travel-from-google-history-c71af5315493?source=rss-f68facac37c8------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+<!--
 ## Blogs
 | Topic | Link |
 |--------------|-------------|
 | Mastering Database Migration from EC2 to AWS RDS using AWS Data Migration Service (DMS) | [Read full blog](https://medium.com/@abdulhakkeempa2002/from-ec2-to-rds-mastering-database-migration-with-aws-dms-b9b812ce9a62) |
 | Building a Conceptual Micro-SaaS Dashboard from Google Maps History | [Read full blog](https://medium.com/@abdulhakkeempa2002/map-in-review-an-analysis-of-your-travel-from-google-history-c71af5315493) |
+--->
 
 
 <!--
