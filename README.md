@@ -21,6 +21,11 @@ I'm an active member of the tech communities, regularly attending and organizing
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulhakkeempa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.hakkeem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hakkeem-pa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hakkeempa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdulhakkeempa) 
 -->
 
+## Research Publications
+- “Applying Monolithic to Microservices Strategy for Elastic Container Deployment of AI Applications” presented at the 2025 IEEE 6th Annual World AI IoT Congress (AIIoT), Seattle, USA.   
+- “MLOps Challenges in Deploying High-Performance Vision Models: An Empirical Analysis” presented at the IEEE CONECCT 2025, Bangalore.
+
+
 ## Open Source Contributions
 - https://github.com/huggingface/smolagents/pull/1462
 - https://github.com/Infisical/infisical/pull/1406
