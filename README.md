@@ -22,7 +22,7 @@ I'm an active member of the tech communities, regularly attending and organizing
 -->
 
 ## Research Publications
-- “Applying Monolithic to Microservices Strategy for Elastic Container Deployment of AI Applications” presented at the 2025 IEEE 6th Annual World AI IoT Congress (AIIoT), Seattle, USA.   
+- [“Applying Monolithic to Microservices Strategy for Elastic Container Deployment of AI Applications”](https://ieeexplore.ieee.org/document/11105358) presented at the 2025 IEEE 6th Annual World AI IoT Congress (AIIoT), Seattle, USA.
 - “MLOps Challenges in Deploying High-Performance Vision Models: An Empirical Analysis” presented at the IEEE CONECCT 2025, Bangalore.
 
 
