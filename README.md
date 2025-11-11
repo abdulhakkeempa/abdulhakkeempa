@@ -84,6 +84,9 @@ Currently exploring optimizing inference latencies, and learning MLOps pipeline 
 ![C++](https://img.shields.io/badge/bootstrap-aa00ff?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![C++](https://img.shields.io/badge/pandas-306998?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![C++](https://img.shields.io/badge/sklearn-29ABE2?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
