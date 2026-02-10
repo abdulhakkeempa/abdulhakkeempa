@@ -2,16 +2,15 @@
 
 I'm Hakkeem, a software engineer who loves to build ML systems.
 <br><br>
-I work as an R&D Engineer (Intern) at a Fin-Tech startup, building AI agents for fraud detection and deploying production systems like an AI copilot for real-time banking data queries. 🤖
-<br><br>
 My expertise spans production ML deployment and taking POCs from research to production. 💻🔧
 <br><br>
-Currently exploring optimizing inference latencies, and learning MLOps pipeline automation. ☁️
+Currently exploring optimizing inference latencies, and ML Infra. ☁️
 
 <!--
 <a href="https://www.buymeacoffee.com/abdulhakkeempa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 -->
 
+<!--
 ## 🌐 Connect with Me
 
 [Email](mailto:hello@abdulhakkeempa.com) | [LinkedIn](https://linkedin.com/in/abdul-hakkeem-pa) | [Twitter](https://twitter.com/abdulhakkeempa) | [Stack Overflow](https://stackoverflow.com/users/hakkeempa) 
@@ -19,10 +18,16 @@ Currently exploring optimizing inference latencies, and learning MLOps pipeline 
 ## 🧑🏻‍💻 Coding Profiles
 
 [Leetcode](https://leetcode.com/u/jiEmgu4WpU/)
+-->
 
 ## Research Publications
 - [“Applying Monolithic to Microservices Strategy for Elastic Container Deployment of AI Applications”](https://ieeexplore.ieee.org/document/11105358) presented at the 2025 IEEE 6th Annual World AI IoT Congress (AIIoT), Seattle, USA.
-- “MLOps Challenges in Deploying High-Performance Vision Models: An Empirical Analysis” presented at the IEEE CONECCT 2025, Bangalore.
+- [“MLOps Challenges in Deploying High-Performance Vision Models: An Empirical Analysis”](https://ieeexplore.ieee.org/abstract/document/11306401) presented at the IEEE CONECCT 2025, Bangalore.
+
+## Conference Talks 🎙️
+| Title                                                     | Event             | Venue                                  | Video                                                           | Presentation Slides |
+| --------------------------------------------------------- | ----------------- | -------------------------------------- | --------------------------------------------------------------- | ------------------- |
+| Optimising LLM Inference on Resource-Constrained Hardware | UbuCon India 2025 | Indian Institute of Science, Bengaluru | [Watch on YouTube](https://www.youtube.com/watch?v=AXYZLHoKIss) | [Talk Slides (PDF)](https://events.canonical.com/event/136/contributions/814/attachments/449/723/Ubucon%20India%202025%20-%20LLM%20Inference%20Optimisation.pdf)                   |
 
 
 ## Open Source Contributions
