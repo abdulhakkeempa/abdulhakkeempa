@@ -74,38 +74,42 @@ Currently exploring optimizing inference latencies, and ML Infra. ☁️
 
 ## 👨🏻‍💻 Skills
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Libraries & Frameworks
-![C++](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C++](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/bootstrap-aa00ff?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/fastapi-009485?style=flat&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/bootstrap-aa00ff?style=flat&logo=bootstrap&logoColor=white)
 
 ### AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![C++](https://img.shields.io/badge/pandas-306998?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![C++](https://img.shields.io/badge/sklearn-29ABE2?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![Keras](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![C++](https://img.shields.io/badge/pandas-306998?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)![C++](https://img.shields.io/badge/sklearn-29ABE2?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
 
 ### Databases
-![C++](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ### Cloud & Infra
-![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C++](https://img.shields.io/badge/Google%20Cloud-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)
-![C++](https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
-![C++](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+![C++](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![C++](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![C++](https://img.shields.io/badge/Google%20Cloud-0F9D58?style=flat&logo=googlecloud&logoColor=white)
+![C++](https://img.shields.io/badge/nginx-009900?style=flat&logo=nginx&logoColor=white)
+![C++](https://img.shields.io/badge/docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![C++](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat&logo=github-actions&logoColor=white)
