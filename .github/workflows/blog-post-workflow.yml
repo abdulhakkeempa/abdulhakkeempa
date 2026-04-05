@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in medium posts
+      - name: Pull in medium, dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@abdulhakkeempa2002"
+          feed_list: "https://medium.com/feed/@abdulhakkeempa2002, https://dev.to/feed/abdulhakkeempa"
