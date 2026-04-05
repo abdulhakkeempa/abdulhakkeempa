@@ -47,6 +47,7 @@ Currently exploring optimizing inference latencies, and ML Infra. ☁️
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Multimodal Local AI Stack: Gemma 4 E2B, vLLM, and Hermes Agent](https://dev.to/abdulhakkeempa/building-a-multimodal-local-ai-stack-gemma-4-e2b-vllm-and-hermes-agent-k8l)
 - [Moving from Request-Response to Async: Engineering Scalable Notification for Better Performance](https://medium.com/@abdulhakkeempa2002/moving-from-request-response-to-async-engineering-scalable-notification-for-better-performance-445b69f93349?source=rss-f68facac37c8------2)
 - [From EC2 to RDS: Mastering Database Migration with AWS DMS](https://medium.com/@abdulhakkeempa2002/from-ec2-to-rds-mastering-database-migration-with-aws-dms-b9b812ce9a62?source=rss-f68facac37c8------2)
 - [The Make-a-Ton Journey: Building Kerala’s Largest Student Hackathon](https://medium.com/writeabyte/the-make-a-ton-journey-building-keralas-largest-student-hackathon-e2868681d0cf?source=rss-f68facac37c8------2)
