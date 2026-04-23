@@ -27,7 +27,8 @@ Currently exploring optimizing inference latencies, and ML Infra. ☁️
 ## Conference Talks 🎙️
 | Title                                                     | Event             | Venue                                  | Video                                                           | Presentation Slides |
 | --------------------------------------------------------- | ----------------- | -------------------------------------- | --------------------------------------------------------------- | ------------------- |
-| Optimising LLM Inference on Resource-Constrained Hardware | UbuCon India 2025 | Indian Institute of Science, Bengaluru | [Watch on YouTube](https://www.youtube.com/watch?v=AXYZLHoKIss) | [Talk Slides (PDF)](https://events.canonical.com/event/136/contributions/814/attachments/449/723/Ubucon%20India%202025%20-%20LLM%20Inference%20Optimisation.pdf)                   |
+| From Pods to Production: Serving LLMs on Kubernetes with KServe + vLLM | Kubernetes Community Day Kochi 2026 | Holiday Inn Cochin, Kochi |  | [Talk Slides](https://docs.google.com/presentation/d/e/2PACX-1vQzg5y0hu55xIhNbL_mEm1wErJETe8qbONWq2eU-ssc2C6v9IwFCEBnj3jU-TAjjLLctvtA3gVpuB4x/pub?start=false&loop=false&delayms=3000)                   |
+| Optimising LLM Inference on Resource-Constrained Hardware | UbuCon India 2025 | Indian Institute of Science, Bengaluru | [Watch on YouTube](https://www.youtube.com/watch?v=AXYZLHoKIss) | [Talk Slides](https://events.canonical.com/event/136/contributions/814/attachments/449/723/Ubucon%20India%202025%20-%20LLM%20Inference%20Optimisation.pdf)                   |
 
 
 ## Open Source Contributions
